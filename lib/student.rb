@@ -28,5 +28,9 @@ class Student
     @@all
   end
   
+<<<<<<< HEAD
 end
 
+=======
+end
+>>>>>>> 578d3e3df573f4f095e1cce17f482faa594b8147
